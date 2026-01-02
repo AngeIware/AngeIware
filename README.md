@@ -6,7 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=Y4tta&label=SAVES&color=FFE6B7&style=plastic" alt="Profile views"/>
 <img src="https://github.com/user-attachments/assets/b352545d-f4e2-4d0b-b5c9-44be8a1eec82"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/AngeIware?style=plastic&label=ANGELS&labelColor=lightyellow&color=white">
 
-<a href="https://holycleave.atabook.org/"> <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=50&duration=1&pause=1000&color=FFE6B7&center=true&vCenter=true&repeat=false&width=625&lines=Holy+Cleave+!!" alt="Typing SVG" /></a>
+<a href="https://holycleave.atabook.org/"> 
+<img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=60&duration=1&pause=5000&color=FFE6B7&center=true&vCenter=true&repeat=false&width=625&lines=Holy+Cleave+!!" alt="Typing SVG" /></a>
 <img width="2048" height="327" alt="tumblr_3d9072a1ac78418018b8e506d50e710c_b6632227_2048" src="https://github.com/user-attachments/assets/4086e5aa-ef52-4b71-8fcb-89d9ab923869" />
 
 <sub> Credits for the dviders!⠀~ ⠀[★](https://www.tumblr.com/mieluno/801302773313503232?source=share) ⠀ [★](https://www.tumblr.com/uzmacchiato/780533196887638016/%F0%9D%93%A6%F0%9D%93%B1%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%AE-%F0%9D%93%9B%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%AE-%F0%9D%93%9F%F0%9D%93%AE%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%B5-%F0%9D%93%93%F0%9D%93%B2%F0%9D%93%BF%F0%9D%93%B2%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BC-%F0%9D%93%9F%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%BD-1?source=share)
